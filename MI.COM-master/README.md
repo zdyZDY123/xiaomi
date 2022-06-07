@@ -1,8 +1,5 @@
-## MI.COM
+## zdyZDY123.COM
 
-> 作者：hunaisong@163.com
-
-> 一个vue.js 2.0 的项目
 
 ----------
 
@@ -24,13 +21,10 @@
 
 ``` bash
 下载本项目
-git clone https://github.com/FE-Hns/MI.COM.git
+git clone https://github.com/zdyZDY123.COM.git
 
 安装项目依赖
 npm install
-
-开发环境运行，浏览器将会在localhost:8082打开
-npm run dev
 
 生产环境运行
 npm run build
@@ -38,6 +32,6 @@ npm run build
 ```
 
 ----------
-**MI.COM**
+**zdyZDY123.COM**
 
 一个使用vue.js 2.0重构小米官网的项目
